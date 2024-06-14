@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RestaurantApp</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="food_app">Food App</string>
+    <string name="email_address_or_phone_number">Email address or phone number</string>
+    <string name="password">Password</string>
+    <string name="you_aren_t_a_user">You aren\'t a user?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="are_you_a_member">Are you a member?</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_email_address_or_phone_number">Enter email address or phone number</string>
+    <string name="re_enter_the_password">Confirm the password</string>
+    <string name="error_un_valid_email">Email is not valid</string>
+    <string name="error_un_valid_password">Password is at least 8 characters long, includes at least 1 capital letter, and at least 1 number</string>
+    <string name="error_un_valid_re_password">Confirm password does not match the original password.</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="fill_the_information">cannot be left blank</string>
+</resources>
